@@ -2,6 +2,8 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Xml.Linq;
 
+// Desarrollado por Néstor Velarde
+
 namespace Backend.Controllers
 {
     [Route("api/[controller]")]
