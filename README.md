@@ -2,21 +2,6 @@
 
 Una API REST simple construida con ASP.NET Core 8.0 para gestionar información de personas.
 
-## Características
+<img width="1852" height="854" alt="Image" src="https://github.com/user-attachments/assets/6d8c7653-a290-44f5-8b99-467596f62ba9" />
 
-- API REST para operaciones con personas
-- Repositorio en memoria para simulación de base de datos
-- Endpoints documentados
-- Compatible con .NET 8.0
-
-## Tecnologías
-
-- **Framework**: ASP.NET Core 8.0
-- **Lenguaje**: C# 12.0
-- **Arquitectura**: Web API
-
-
-## Endpoints
-
-### GET /api/People/All
-Obtiene todas las personas registradas.
+<img width="1919" height="922" alt="Image" src="https://github.com/user-attachments/assets/9a633cc5-f880-4221-8a04-e98eb4fd3b00" />
